@@ -10,41 +10,23 @@
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/c9c9c9/lins888" alt="contribuciones" width="820" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lins888&bg_color=0d0d0d&color=e6e6e6&line=9e9e9e&point=ffffff&area=true&area_color=1a1a1a&hide_border=true&hide_title=true" alt="contribuciones" width="880" />
 
 </div>
 
 <br/>
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--  STATUS  -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ░░ HEADER: título tipeado ░░ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=E6E6E6&center=true&vCenter=true&width=760&height=60&lines=root%40lins888%3A~%24+whoami;access%3A+builder;status%3A+shipping+in+silence;//+el+resto+lo+descubr%C3%ADs" alt="typing header" />
-
-<br/>
-
 <samp>
-  <b>[ 404 · LOCATION NOT FOUND ]</b> &nbsp;·&nbsp; <b>[ BUILDER ]</b> &nbsp;·&nbsp; <b>[ AI-FIRST ]</b>
+  <b>[ 404 · LOCATION NOT FOUND ]</b> &nbsp;·&nbsp; <b>[ BUILDER ]</b> &nbsp;·&nbsp; <b>[ AI DEVELOPER ]</b>
 </samp>
 
 </div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--  SOBRE MÍ  -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-```bash
-root@lins888:~$ cat about.md
-```
-
-> Construyo cosas y las pongo a correr. Menos ruido, más output.
-> Prototipo, despliego y sigo — en silencio.
->
-> `focus →` producto real en producción · automatización con agentes · diseño con criterio.
->
-> Si llegaste hasta acá, ya sabés lo suficiente.
 
 <br/>
 
@@ -63,10 +45,6 @@ root@lins888:~$ cat about.md
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--  STACK  -->
 <!-- ══════════════════════════════════════════════════════════ -->
-
-```bash
-root@lins888:~$ ls ~/stack
-```
 
 <div align="center">
 
@@ -100,12 +78,18 @@ root@lins888:~$ ls ~/stack
 <!--  STATS  -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
+<table align="center">
+<tr>
+<td>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=lins888&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d0d0d&title_color=FFFFFF&text_color=C9C9C9&icon_color=9E9E9E" />
+</td>
+<td>
+<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=lins888&hide_border=true&background=0d0d0d&stroke=2a2a2a&ring=E6E6E6&fire=FFFFFF&currStreakLabel=E6E6E6&sideLabels=C9C9C9&dates=9E9E9E&currStreakNum=FFFFFF&sideNums=C9C9C9" />
+</td>
+</tr>
+</table>
+
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=lins888&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d0d0d&title_color=FFFFFF&text_color=C9C9C9&icon_color=9E9E9E" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=lins888&hide_border=true&background=0d0d0d&stroke=2a2a2a&ring=E6E6E6&fire=FFFFFF&currStreakLabel=E6E6E6&sideLabels=C9C9C9&dates=9E9E9E&currStreakNum=FFFFFF&sideNums=C9C9C9" />
-
-<br/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lins888&layout=compact&hide_border=true&langs_count=8&bg_color=0d0d0d&title_color=FFFFFF&text_color=C9C9C9" />
 
