@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lins888&bg_color=0d0d0d&color=e6e6e6&line=9e9e9e&point=ffffff&area=true&area_color=1a1a1a&hide_border=true&hide_title=true" alt="contribuciones" width="880" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lins888&bg_color=0d0d0d&color=e6e6e6&line=9e9e9e&point=ffffff&area=true&area_color=1a1a1a&hide_border=true&hide_title=true&v=20260723" alt="contribuciones" width="880" />
 
 </div>
 
@@ -78,37 +78,8 @@
 <!--  STATS  -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-<table align="center">
-<tr>
-<td>
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=lins888&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d0d0d&title_color=FFFFFF&text_color=C9C9C9&icon_color=9E9E9E" />
-</td>
-<td>
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=lins888&hide_border=true&background=0d0d0d&stroke=2a2a2a&ring=E6E6E6&fire=FFFFFF&currStreakLabel=E6E6E6&sideLabels=C9C9C9&dates=9E9E9E&currStreakNum=FFFFFF&sideNums=C9C9C9" />
-</td>
-</tr>
-</table>
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lins888&layout=compact&hide_border=true&langs_count=8&bg_color=0d0d0d&title_color=FFFFFF&text_color=C9C9C9" />
-
-</div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--  FOOTER  -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<samp>
-  <b>root@lins888:~$</b> <i>exit</i>
-</samp>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=lins888&label=profile+views&color=6e6e6e&style=flat-square" alt="views" />
+<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=lins888&hide_border=true&background=0d0d0d&stroke=2a2a2a&ring=E6E6E6&fire=FFFFFF&currStreakLabel=E6E6E6&sideLabels=C9C9C9&dates=9E9E9E&currStreakNum=FFFFFF&sideNums=C9C9C9&v=20260723" alt="contribuciones y streak" />
 
 </div>
