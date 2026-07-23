@@ -1,17 +1,16 @@
 <!--
   ╔══════════════════════════════════════════════════════════╗
-  ║  DANIEL LLANO ESCOBAR · lins888                          ║
-  ║  Perfil GitHub — monocromo (blanco / gris / negro)      ║
+  ║  lins888 — perfil monocromo · incógnito                  ║
   ╚══════════════════════════════════════════════════════════╝
 -->
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--  CONTRIBUCIONES REALES (snake) — arriba del todo  -->
+<!--  CONTRIBUCIONES REALES — arriba del todo  -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/lins888/lins888/output/snake-dark.svg" alt="contribuciones" />
+<img src="https://ghchart.rshah.org/c9c9c9/lins888" alt="contribuciones" width="820" />
 
 </div>
 
@@ -20,13 +19,12 @@
 <div align="center">
 
 <!-- ░░ HEADER: título tipeado ░░ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=900&color=E6E6E6&center=true&vCenter=true&width=760&height=70&lines=daniel%40github%3A~%24+whoami;founder+%C2%B7+zafrino;builder+con+IA;convierto+ideas+en+producto" alt="typing header" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=E6E6E6&center=true&vCenter=true&width=760&height=60&lines=root%40lins888%3A~%24+whoami;access%3A+builder;status%3A+shipping+in+silence;//+el+resto+lo+descubr%C3%ADs" alt="typing header" />
 
 <br/>
 
-<!-- ░░ Línea de estado tipo terminal ░░ -->
 <samp>
-  <b>[ MEDELLÍN, CO ]</b> &nbsp;·&nbsp; <b>[ STREETWEAR × SOFTWARE ]</b> &nbsp;·&nbsp; <b>[ AI-FIRST DEV ]</b>
+  <b>[ 404 · LOCATION NOT FOUND ]</b> &nbsp;·&nbsp; <b>[ BUILDER ]</b> &nbsp;·&nbsp; <b>[ AI-FIRST ]</b>
 </samp>
 
 </div>
@@ -38,24 +36,25 @@
 <!-- ══════════════════════════════════════════════════════════ -->
 
 ```bash
-daniel@eclipse:~$ cat about.md
+root@lins888:~$ cat about.md
 ```
 
-> Fundador de **Zafrino** — streetwear premium noir. Construyo mis propias marcas y las
-> herramientas que las operan: apps, dashboards y sistemas internos, todo apoyado en IA.
-> No espero a que alguien lo haga: lo prototipo, lo despliego y lo pongo a correr.
+> Construyo cosas y las pongo a correr. Menos ruido, más output.
+> Prototipo, despliego y sigo — en silencio.
 >
 > `focus →` producto real en producción · automatización con agentes · diseño con criterio.
+>
+> Si llegaste hasta acá, ya sabés lo suficiente.
 
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--  FOTO EN ASCII / PIXEL  (se reemplaza con tu foto)  -->
+<!--  RETRATO  -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="./avatar.png" width="340" alt="daniel · retrato" />
+<img src="./avatar.png" width="320" alt="[ retrato ]" />
 
 </div>
 
@@ -66,7 +65,7 @@ daniel@eclipse:~$ cat about.md
 <!-- ══════════════════════════════════════════════════════════ -->
 
 ```bash
-daniel@eclipse:~$ ls ~/stack
+root@lins888:~$ ls ~/stack
 ```
 
 <div align="center">
@@ -101,10 +100,6 @@ daniel@eclipse:~$ ls ~/stack
 <!--  STATS  -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-```bash
-daniel@eclipse:~$ git log --stat --oneline
-```
-
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=lins888&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d0d0d&title_color=FFFFFF&text_color=C9C9C9&icon_color=9E9E9E" />
@@ -119,25 +114,13 @@ daniel@eclipse:~$ git log --stat --oneline
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--  TROFEOS  -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=lins888&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6" />
-
-</div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════ -->
 <!--  FOOTER  -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <samp>
-  <b>daniel@eclipse:~$</b> <i>echo "construyo marcas y el software que las mueve."</i>
+  <b>root@lins888:~$</b> <i>exit</i>
 </samp>
 
 <br/><br/>

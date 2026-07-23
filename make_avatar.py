@@ -1,28 +1,28 @@
 #!/usr/bin/env python3
-"""Convierte una foto en avatar ASCII y duotone violeta (tema Eclipse)."""
+"""Convierte una foto en avatar ASCII y duotone monocromo (blanco/gris/negro)."""
 import sys
 from PIL import Image, ImageDraw, ImageFont, ImageOps, ImageEnhance
 
 FONT_PATH = "/System/Library/Fonts/Menlo.ttc"
-BG = (13, 1, 23)          # #0d0117 negro-violeta
+BG = (13, 13, 13)         # #0d0d0d negro neutro
 # rampa de caracteres de oscuro -> claro
 RAMP = " .:-=+*#%@"
-# rampa de color violeta: oscuro -> neon -> claro
-VIOLET = [(27, 15, 43), (59, 29, 94), (109, 40, 217), (168, 85, 247), (216, 180, 254), (240, 230, 255)]
+# rampa monocroma: oscuro -> gris -> blanco
+MONO = [(20, 20, 20), (60, 60, 60), (110, 110, 110), (160, 160, 160), (210, 210, 210), (240, 240, 240)]
 
 
 def lerp(a, b, t):
     return tuple(int(a[i] + (b[i] - a[i]) * t) for i in range(3))
 
 
-def violet_ramp(v):  # v en 0..1
+def violet_ramp(v):  # v en 0..1 — rampa monocroma (nombre conservado)
     if v <= 0:
-        return VIOLET[0]
+        return MONO[0]
     if v >= 1:
-        return VIOLET[-1]
-    seg = v * (len(VIOLET) - 1)
+        return MONO[-1]
+    seg = v * (len(MONO) - 1)
     i = int(seg)
-    return lerp(VIOLET[i], VIOLET[i + 1], seg - i)
+    return lerp(MONO[i], MONO[i + 1], seg - i)
 
 
 CROP = None      # (left, top, right, bottom) o None
