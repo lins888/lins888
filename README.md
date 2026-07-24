@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<img src="./avatar-noir.png" width="320" alt="[ retrato ]" />
+<img src="./retrato.png" width="320" alt="[ retrato ]" />
 
 </div>
 
