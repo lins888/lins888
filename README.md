@@ -80,6 +80,6 @@
 
 <div align="center">
 
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=lins888&hide_border=true&background=0d0d0d&stroke=2a2a2a&ring=E6E6E6&fire=FFFFFF&currStreakLabel=E6E6E6&sideLabels=C9C9C9&dates=9E9E9E&currStreakNum=FFFFFF&sideNums=C9C9C9&v=20260723" alt="contribuciones y streak" />
+<img height="175" src="https://streak-stats.demolab.com/?user=lins888&hide_border=true&background=0d0d0d&stroke=2a2a2a&ring=E6E6E6&fire=FFFFFF&currStreakLabel=E6E6E6&sideLabels=C9C9C9&dates=9E9E9E&currStreakNum=FFFFFF&sideNums=C9C9C9&v=20260729b" alt="contribuciones y streak" />
 
 </div>
