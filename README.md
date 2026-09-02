@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lins888&bg_color=0d0d0d&color=e6e6e6&line=9e9e9e&point=ffffff&area=true&area_color=1a1a1a&hide_border=true&hide_title=true&v=20260723" alt="contribuciones" width="880" />
+<img src="https://github-activity-graph-iota.vercel.app/graph?username=lins888&bg_color=0d0d0d&color=e6e6e6&line=9e9e9e&point=ffffff&area=true&area_color=1a1a1a&hide_border=true&hide_title=true&v=20260901" alt="contribuciones" width="880" />
 
 </div>
 
